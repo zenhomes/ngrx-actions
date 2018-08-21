@@ -1,6 +1,6 @@
 {
-  "name": "ngrx-actions",
-  "version": "4.0.1",
+  "name": "@zenhomes/ngrx-actions",
+  "version": "6.1.0",
   "description": "Actions and Reducer Utility Library for NGRX",
   "main": "dist/index.js",
   "scripts": {
